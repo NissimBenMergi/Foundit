@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profileItem"
+        android:icon="@drawable/profilebottomicon"
+        android:onClick="onOptionsItemSelected"
+        android:title="@string/tMyProfile" />
+    <item
+        android:id="@+id/foundItItem"
+        android:icon="@drawable/findbottomicon"
+        android:onClick="onOptionsItemSelected"
+        android:title="Found it" />
+    <item
+        android:id="@+id/helpItem"
+        android:icon="@drawable/helpbottomicon"
+        android:onClick="onOptionsItemSelected"
+        android:title="@string/tHelp" />
+</menu>

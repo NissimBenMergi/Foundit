@@ -1,0 +1,97 @@
+<resources>
+
+    <!-- Strings related to general -->
+    <string name="tAppName">Fount it</string>
+    <string name="tUserName">User name</string>
+    <string name="tContactUs">Contact Us</string>
+    <string name="tHelp">Help</string>
+    <string name="tMyProfile">My profile</string>
+    <string name="tWelcome">Welcome</string>
+
+    <!-- Strings related to login -->
+    <string name="tEmail">Email</string>
+    <string name="tPassword">Password</string>
+    <string name="tLogin">Login</string>
+    <string name="tNewAccount">Create new account</string>
+    <string name="tRememberMe">Remember me</string>
+    <string name="tForgetPassword">Forget Password?</string>
+    <string name="tSigninWith">Or sign in with</string>
+
+    <!-- Strings related to Regisration -->
+    <string name="tFinish">Finish</string>
+    <string name="tAddPic">Add Profile picture</string>
+    <string name="tMale">Male</string>
+    <string name="tFemale">Female</string>
+    <string name="tGender">Gender</string>
+    <string name="tHasAccount">Already has account! Login here</string>
+    <string name="tFullName">Full name</string>
+    <string name="tSigning">Signing</string>
+    <string name="tNoPic">Must add picture</string>
+
+    <!-- Strings related to  Main-->
+    <string name="tAddActivity">Add Acticity</string>
+    <string name="tFindActivity">Find Activity</string>
+    <string name="tLogout">Logout</string>
+
+    <!-- Strings related to  Activity details-->
+    <string name="tMoreDetails">More details</string>
+    <string name="tTitle">Title</string>
+    <string name="tHour">Hour</string>
+    <string name="tDate">Date</string>
+    <string name="tDescribe">Description</string>
+    <string name="tCategory">Category</string>
+    <string name="tCheckLocation">Click here to find out the activity location</string>
+
+    <!-- Strings related to  Activity add-->
+    <string name="tLocation">Location</string>
+    <string name="tPickDate">Pick a date</string>
+    <string name="tPickAnHour">Pick an hour</string>
+    <string name="tMark">Choose location</string>
+    <string name="tMustPickLocation">Must choose location</string>
+    <string name="tTitleIsEmpty">Title field is empty</string>
+
+    <!-- Strings related to  Activity Categories-->
+    <string name="tHealthAndSports">Health and sports</string>
+    <string name="tStudy">Education and studies</string>
+    <string name="tDating">Dating</string>
+    <string name="tFun">Fun</string>
+    <string name="tSocial">Social</string>
+    <string name="tSport">Sport</string>
+    <string name="tParty">Party</string>
+    <string name="tJobs">Jobs</string>
+    <string name="tVolunteering">Volunteering</string>
+    <string name="tFreeEvents">Free events</string>
+    <string name="tEverythingElse">Everything else</string>
+    <string name="tReligion">Religion</string>
+    <string name="tCookingAndBaking">Cooking and baking</string>
+
+    <!-- Strings related to  About-->
+    <string name="tHelp1">Profile page\n By clicking my profile button you will open\n your personal page from which you can view your own activities</string>
+    <string name="tHelp2">Find activities page\n By clicking find activity button you will see\n all the activities posted, and their distance from you</string>
+    <string name="tHelp3">Add activity page\n By clicking add activity button you can add\n your own activity for people to join.</string>
+    <string name="tAboutUs">About us</string>
+
+    <!-- Strings related to  About-->
+    <string name="tAbout">Found it is a people connecting platform.\n
+    Linking between people who are looking for partners to join them in any activity,\n and people who are looking for something to do.</string>
+    <string name="tDevelopers">Developed by Nissim ben mergi and Lior chausovsky</string>
+
+    <!-- Strings related to  Profile-->
+    <string name="tMyActivities">My activities</string>
+
+    <!-- Strings related to  Yes/No dialog-->
+    <string name="tAreYouSure">Are you sure you want to quit?</string>
+    <string name="tYesOption">Yes</string>
+    <string name="tNoOption">No</string>
+
+    <!-- Strings related to  input check-->
+    <string name="tEmailExists">Email exists, try another one.</string>
+    <string name="tPasswordTooShort">Password too short.</string>
+    <string name="tInvalidEmailAddress">Invalid email address.</string>
+    <string name="tUserCreated">User created.</string>
+    <string name="tOneOrMoreFieldsIsEmpty">One or more fileds is empty.</string>
+    <string name="tEmailOrPasswordIsWrong">Email or password is wrong</string>
+    <string name="tSuccess">Success!</string>
+
+
+</resources>

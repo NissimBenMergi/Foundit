@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings related to general -->
+    <string name="tUserName">שם משתמש</string>
+    <string name="tContactUs">צור קשר</string>
+    <string name="tHelp">עזרה</string>
+    <string name="tMyProfile">הפרופיל שלי</string>
+    <string name="tWelcome">ברוך הבא</string>
+
+
+    <!-- Strings related to login -->
+    <string name="tEmail">אימייל</string>
+    <string name="tPassword">סיסמה</string>
+    <string name="tLogin">התחבר</string>
+    <string name="tNewAccount">צור חשבון חדש</string>
+    <string name="tRememberMe">זכור אותי</string>
+    <string name="tForgetPassword">שכחתי סיסמה</string>
+    <string name="tSigninWith">או התחבר באמצעות</string>
+
+    <!-- Strings related to Regisration -->
+    <string name="tFinish">סיים</string>
+    <string name="tAddPic">הוסף תמונת פרופיל</string>
+    <string name="tMale">זכר</string>
+    <string name="tFemale">נקבה</string>
+    <string name="tGender">מין</string>
+    <string name="tHasAccount">יש כבר חשבון! התחבר כאן</string>
+    <string name="tFullName">שם מלא</string>
+    <string name="tSigning">נרשם</string>
+    <string name="tNoPic">יש להוסיף תמונת פרופיל</string>
+
+    <!-- Strings related to  Main-->
+    <string name="tAddActivity">הוסף פעילות</string>
+    <string name="tFindActivity">חפש פעילות</string>
+    <string name="tLogout">התנתק</string>
+
+    <!-- Strings related to  Activity details-->
+    <string name="tMoreDetails">פרטים נוספים</string>
+    <string name="tTitle">כותרת</string>
+    <string name="tHour">שעה</string>
+    <string name="tDate">תאריך</string>
+    <string name="tDescribe">תיאור</string>
+    <string name="tCategory">קטגוריה</string>
+    <string name="tCheckLocation">לחץ כאן כדי לראות את מיקום הפעילות</string>
+
+    <!-- Strings related to  Activity add-->
+    <string name="tLocation">מיקום</string>
+    <string name="tPickDate">בחר תאריך</string>
+    <string name="tPickAnHour">בחר שעה</string>
+    <string name="tMark">בחר מיקום</string>
+    <string name="tMustPickLocation">יש לבחור מיקום לפעילות</string>
+    <string name="tTitleIsEmpty">יש לבחור כותרת לפעילות</string>
+
+
+    <!-- Strings related to  Activity Categories-->
+    <string name="tHealthAndSports">בריאות וספורט</string>
+    <string name="tStudy">השכלה ולימודים</string>
+    <string name="tDating">דייטים</string>
+    <string name="tFun">סתם בשביל הכייף</string>
+    <string name="tSocial">מפגשים חברתיים</string>
+    <string name="tSport">ספורט</string>
+    <string name="tParty">מסיבות</string>
+    <string name="tJobs">עבודות</string>
+    <string name="tVolunteering">התנדבות</string>
+    <string name="tFreeEvents">אירועים בחינם</string>
+    <string name="tEverythingElse">כללי</string>
+    <string name="tReligion">דת</string>
+    <string name="tCookingAndBaking">בישול ואפייה</string>
+
+    <!-- Strings related to  Help-->
+    <string name="tHelp1">בלחיצה על הפרופיל שלי יפתח עמוד פרופיל המשתמש ממנו תוכל לראות את הפעילויות שפרסמת</string>
+    <string name="tHelp2">בלחיצה על מצא פעילות תיפתח רשימת הפעילויות ואת המרחק שלהם ממיקומך הנוכחי</string>
+    <string name="tHelp3">בלחיצה על הוספת פעילות תוכל להוסיף פעילות משלך</string>
+    <string name="tAboutUs">קצת עלינו</string>
+
+    <!-- Strings related to  About-->
+    <string name="tAbout">האפליקציה היא פלטפורמה חדשנית לחיבור בין אנשים,מחברת בין אנשים אשר מחפשים שותפים לפעילות שפרסמו לבין אנשים שמחפשים מה לעשות</string>
+    <string name="tDevelopers">פותח ע"י ניסים בן מרגי וליאור צ'אוסובסקי</string>
+
+    <!-- Strings related to  Profile-->
+    <string name="tMyActivities">הפעילויות שלי</string>
+
+    <!-- Strings related to  Yes/No dialog-->
+    <string name="tAreYouSure">אתה בטוח שברצונך לצאת?</string>
+    <string name="tYesOption">כן</string>
+    <string name="tNoOption">לא</string>
+
+    <!-- Strings related to  input check-->
+    <string name="tEmailExists">אימייל בשימוש, נסה אחר</string>
+    <string name="tPasswordTooShort">סיסמה קצרה</string>
+    <string name="tInvalidEmailAddress">כתובת אימייל שגויה</string>
+    <string name="tUserCreated">משתמש נוסף</string>
+    <string name="tOneOrMoreFieldsIsEmpty">אחד או יותר מהשדות ריקים</string>
+    <string name="tEmailOrPasswordIsWrong">אימייל או סיסמה שגויים</string>
+    <string name="tSuccess">סיים</string>
+</resources>

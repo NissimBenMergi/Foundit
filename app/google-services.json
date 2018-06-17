@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "191352154203",
+    "firebase_url": "https://founditapp-f1110.firebaseio.com",
+    "project_id": "founditapp-f1110",
+    "storage_bucket": "founditapp-f1110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191352154203:android:c918f9b530f62778",
+        "android_client_info": {
+          "package_name": "com.nl.founditapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191352154203-ur0rr7f1rd5av4tlgmpb0nhp37ljl4f0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nl.founditapp",
+            "certificate_hash": "d547585a51ad41ab23759ae02349b5cf8b6ff615"
+          }
+        },
+        {
+          "client_id": "191352154203-h4hdantlap43frapomd0v3bjbqu902ks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nl.founditapp",
+            "certificate_hash": "045d5c0bbccde392bbd90f8a0600f40f523c334c"
+          }
+        },
+        {
+          "client_id": "191352154203-uga5sf2kk0v6d6tvpkrfvglunh273mko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb9eNNkKptDqNEZt1ob2xmbU8nhExoHPU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191352154203-uga5sf2kk0v6d6tvpkrfvglunh273mko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
